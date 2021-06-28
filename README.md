@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narenchunduri
-- 🌱 I’m currently learning Pyhton, Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on assignments/projects realted to Machine Learning.
+- 🌱 I’m currently learning Python, Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on assignments/projects realted to Python and Machine Learning.
 - 📫 Reach me via my gmail narenchunduri@gmail.com
 
 <!---
